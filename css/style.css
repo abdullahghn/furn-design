@@ -318,6 +318,7 @@ footer {
     }
     .product-big-img {
         left: -4rem;
+        top: -2rem;
     }
     .product-big-img img {
         width: 100%;
@@ -352,6 +353,9 @@ footer {
         left: 0;
     }
     /* PRODUCTS SECTION BOTTOM */
+    .product-big-heading {
+        font-size: 4rem;
+    }
     .product-section-bottom {
         flex-wrap: wrap;
     }
