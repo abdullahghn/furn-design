@@ -305,6 +305,9 @@ footer {
         top: 30rem;
         z-index: 999;
     }
+    .hero-section {
+        margin: 100px 0;
+    }
     .hero-left {
         grid-area: 1 / span 2;
     }
