@@ -314,6 +314,9 @@ footer {
     .hero-right {
         grid-area: 2 / span 2;
     }
+    .hero-right .social-icons {
+        margin-top: 6rem;
+    }
     /* PRODUCT SECTION TOP */
     .product-section-top {
         display: grid;
@@ -335,6 +338,9 @@ footer {
     }
     .blue-box-text {
         left: 5px;
+    }
+    .blue-box-text h2 {
+        font-size: 1.5rem;
     }
     .product-top-left .img {
         top: 450px;
@@ -376,7 +382,7 @@ footer {
         grid-template-columns: auto;
     }
     .product-bottom-right-grid .gray img {
-        width: 100%
+        width: 80%
     }
     .product-bottom-right-grid > div {
         /* min-width: 11.6rem; */
